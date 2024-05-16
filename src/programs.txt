@@ -1,0 +1,10 @@
+lang = 'Testyantra';
+for x in lang:
+  print(x)
+
+class Main{
+public static void main(String[] args){
+System.out.println("Hello");
+}
+}
+
